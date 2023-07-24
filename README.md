@@ -1,2 +1,2 @@
 # git_test
-First Git repository for TOP into lessons
+First Git repository for TOP intro lessons
